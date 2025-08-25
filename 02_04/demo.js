@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-chec
 
 export const name = "Foobar";
 name = "Hello";
